@@ -1,0 +1,32 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "description": "playground ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sailxjx/playground.git"
+  },
+  "author": {
+    "name": "Xu Jingxin",
+    "email": "sailxjx@gmail.com",
+    "url": "http://jingxin.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sailxjx/playground/issues"
+  },
+  "homepage": "https://github.com/sailxjx/playground",
+  "dependencies": {
+    "gulp-rename": "^1.2.0",
+    "coffee-script": "^1.8.0",
+    "gulp-plumber": "^0.6.5",
+    "gulp-jade": "^0.7.0",
+    "gulp-watch": "^0.7.0",
+    "gulp": "^3.8.7",
+    "gulp-stylus": "^1.3.0"
+  }
+}
